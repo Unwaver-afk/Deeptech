@@ -1,0 +1,10 @@
+{
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "mcc": 1.0,
+    "latency_ms": 29.574236035346985,
+    "fps": 33.81321494847085,
+    "samples": 2000
+}

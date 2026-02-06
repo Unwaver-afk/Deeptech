@@ -1,0 +1,11 @@
+Wafer_Map_Datasets.npz
+*.safetensors
+*.onnx.data
+hackathon_model/
+Wafer_Map_Datasets.npz
+*.safetensors
+*.onnx.data
+hackathon_model/
+onnx/
+__pycache__/
+.DS_Store
